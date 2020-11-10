@@ -1,0 +1,54 @@
+sfArk SoundFont Compression
+copyright 1998-2000 MelodyMachine.com
+Website: www.melodymachine.com
+
+Please note: This freeware version of sfArk is not licensed for commercial use. Commercial use would include but is not limited to use or distribution of sfArk with SoundFonts or related products or services that you sell or rent.  A license for commercial use may be granted on payment of license fees to Melody Machine. Please contact sales@melodymachine.com for further information.
+
+
+LICENSE AGREEMENT AND DISCLAIMER OF WARRANTY
+
+IMPORTANT
+
+THIS IS A LEGAL AGREEMENT BETWEEN YOU, THE LICENSEE, AND MELODY MACHINE. PLEASE READ THE AGREEMENT CAREFULLY BEFORE CONTINUING TO USE THE SOFTWARE. BY CONTINUING THE INSTALLATION AND USE OF THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, PROMPTLY CEASE ALL FURTHER INSTALLATION OR USE OF THE SOFTWARE AND, IF ALREADY INSTALLED, REMOVE THE SOFTWARE FROM YOUR COMPUTER.
+
+1. SOFTWARE
+
+The term "Software" as used in this Agreement shall mean SFARK SoundFont Compression Software (freeware version) operating in the environment of Microsoft Windows, including any technology licensed by MELODY MACHINE from the developers and owners thereof to MELODY MACHINE, together with all accompanying Documentation.
+
+2. RIGHTS GRANTED
+
+In consideration of your agreement to abide by the terms of this license, MELODY MACHINE hereby grants to you, THE LICENSEE, for an indefinite period a non-exclusive, non-transferable license to use the Software in personal non profit making activities.  Use in any business or commercial activity is expressly prohibited.  Use of the Software shall be defined for the purposes of this license as the loading of the Software into RAM or the permanent memory of a computer. Title to and ownership of the Software and all intellectual property rights therein shall at all times remain the property of MELODY MACHINE and/or its licensers.
+ 
+3. COPYRIGHT
+
+THE LICENSEE acknowledges that the Software is protected by copyright. Pursuant to relevant national and international copyright laws, THE LICENSEE may not copy, photocopy, reproduce, translate, modify, adapt or create derivative works based on the Software or Documentation or any portion thereof except that THE LICENSEE may copy the Software in its original form onto any computer for the purpose of use of the software as described by this license.
+
+THE LICENSEE will use its best efforts to reproduce and preserve MELODY MACHINE'S copyright notices and copyrights in the Software and will promptly report to MELODY MACHINE any apparent infringement of such copyright that comes to the attention of THE LICENSEE. THE LICENSEE shall not make a copy or copies of the Software or any part thereof available to any third party, nor allow any other person acting on THE LICENSEE'S behalf to do so. THE LICENSEE will be held legally responsible for any copyright infringement which is caused or made possible by THE LICENSEE'S failure to abide by the terms of this Agreement.
+
+4. PROPRIETARY INFORMATION & TRADE SECRETS
+
+THE LICENSEE recognizes and understands that the Software, Documentation and all other materials and knowledge related thereto are proprietary to MELODY MACHINE and/or its licensor(s) and contain confidential and proprietary information and trade secrets. THE LICENSEE agrees not to disclose such information to any third party other than MELODY MACHINE'S employees or authorised agents without MELODY MACHINE'S prior written consent. This obligation of confidentiality includes any confidential information which is obtained by THE LICENSEE as a result of any analysis or decompilation permitted under Articles 5(3) and 6 of the EU Software Directive (91/250/EEC). THE LICENSEE acknowledges that, as between MELODY MACHINE and THE LICENSEE, the Software and its Documentation and all copyrights, trade secret rights and other intellectual property rights with respect thereto, are and will at all times be the property of MELODY MACHINE. THE LICENSEE agrees not to cause or permit any attempts to determine the source code of the Software, including but not limited to reverse engineering, disassembly or decompilation of the Software, except as permitted by Article 6 of the EU Software Directive, and agrees not to cause or permit any modification, adaptation or reprogramming of the Software. The obligations of this paragraph shall survive the expiration or termination of this Agreement.
+
+5. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR OF ANY OTHER TYPE, WHETHER EXPRESS OR IMPLIED, AND TO ANY REMEDY AGAINST MELODY MACHINE AND/OR ITS LICENSERS, WHETHER IN CONTRACT, TORT OR OTHERWISE. THE LICENSEE AGREES THAT NEITHER MELODY MACHINE NOR ITS EMPLOYEES, MANAGEMENT OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION, PRODUCTION OR DELIVERY OF THE SOFTWARE SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO, LOSS OF ANTICIPATED PROFIT, REVENUE, DATA OR USE) INCURRED BY THE LICENSEE OR ANY THIRD PARTY IN CONNECTION WITH OR ARISING OUT OF USE OF THE SOFTWARE, EVEN IF MELODY MACHINE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THIS CLAUSE LIMITS MELODY MACHINE'S LIABILITY TO THE LICENSEE IN THE EVENT OF DEATH OR PERSONAL INJURY RESULTING FROM MELODY MACHINE'S NEGLIGENCE.
+
+6. TERMINATION OF LICENSE
+
+This license will terminate automatically if THE LICENSEE fails to comply with any provision of this license. In any case MELODY MACHINE may terminate this license at any time at their discretion.  In the event of termination of the license, THE LICENSEE agrees to immediately cease using the Software, and within ten (10) days of the termination certify to MELODY MACHINE that all copies of the Software have been destroyed. This requirement will apply to all copies in any form, whether partial or complete, and whether or not modified or merged into other program materials.
+ 
+7. GOVERNING LAW
+
+This Agreement shall be governed in all respects by the laws of the United Kingdom of Great Britain.
+
+8. EXPORT CONTROLS
+
+THE LICENSEE agrees that THE LICENSEE will not directly or indirectly transfer the Software or Documentation to any country to which such transfer would be prohibited by any applicable export control law.
+
+9. ACKNOWLEDGMENT
+
+THE LICENSEE acknowledges that THE LICENSEE has read this Agreement in full, has fully understood its terms and agrees to be bound thereby. This Agreement contains the complete and exclusive agreement between the parties and supersedes all proposals or prior agreements, oral or written, and any other communications between the parties and supersedes all proposals or prior agreements, oral and written, and any other communications between the parties relating to the subject matter of this Agreement.
+
+
+
+

@@ -1,0 +1,59 @@
+REGEDIT4
+
+; This file sets up file associations for sfArk, sbk and sf2 files for use with sfArk
+
+; sfArk Files...
+
+[HKEY_CLASSES_ROOT\.sfArk]
+@="sfArkFile"
+
+[HKEY_CLASSES_ROOT\sfArkfile]
+@="sfArk Compressed SoundFont"
+
+[HKEY_CLASSES_ROOT\sfArkfile\Shell]
+@="Decompress"
+
+[HKEY_CLASSES_ROOT\sfArkfile\Shell\Decompress]
+@="&Decompress"
+
+[HKEY_CLASSES_ROOT\sfArkfile\Shell\Decompress\command]
+@="\"C:\\Program Files\\sfArk\\sfArk.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\sfArkfile\Shell\Make_self-extracting]
+@="Make &self-extracting"
+
+[HKEY_CLASSES_ROOT\sfArkfile\Shell\Make_self-extracting\command]
+@="\"C:\\Program Files\\sfArk\\sfArkXTc.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\sfArkfile\DefaultIcon]
+@="C:\\Program Files\\sfArk\\sfArk.exe,0"
+
+
+; .sbk files...
+
+[HKEY_CLASSES_ROOT\.sbk]
+@="SFBANK_1"
+
+[HKEY_CLASSES_ROOT\SFBank_1]
+@="SoundFont 1.0 Bank"
+
+[HKEY_CLASSES_ROOT\SFBank_1\shell\Compress_with_sfArk]
+@="&Compress with sfArk"
+
+[HKEY_CLASSES_ROOT\SFBank_1\shell\Compress_with_sfArk\command]
+@="\"C:\\Program Files\\sfArk\\sfArk.exe\" \"%1\""
+
+
+; .sf2 files...
+
+[HKEY_CLASSES_ROOT\.SF2]
+@="SFBANK_2"
+
+[HKEY_CLASSES_ROOT\SFBank_2]
+@="SoundFont 2.0 Bank"
+
+[HKEY_CLASSES_ROOT\SFBank_2\shell\Compress_with_sfArk]
+@="&Compress with sfArk"
+
+[HKEY_CLASSES_ROOT\SFBank_2\shell\Compress_with_sfArk\command]
+@="\"C:\\Program Files\\sfArk\\sfArk.exe\" \"%1\""
