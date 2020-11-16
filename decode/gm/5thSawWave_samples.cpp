@@ -1218,7 +1218,7 @@ static const PROGMEM uint32_t sample_2_5thSawWave_ICE__84A[2048] = {
 0x00000000,0x00000000,0x00000000,0x00000000,0x00000000,0x00000000,
 };
 
-static const PROGMEM AudioSynthWavetable::sample_data 5thSawWave_samples[3] = {
+static const PROGMEM AudioSynthWavetable::sample_data FifthSawWave_samples[3] = {
 	{
 		(int16_t*)sample_0_5thSawWave_5_SAW81, // sample
 		true, // LOOP
@@ -1299,7 +1299,7 @@ static const PROGMEM AudioSynthWavetable::sample_data 5thSawWave_samples[3] = {
 	},
 };
 
-static const PROGMEM uint8_t 5thSawWave_ranges[] = {63, 105, 127, };
+static const PROGMEM uint8_t FifthSawWave_ranges[] = {63, 105, 127, };
 
-const PROGMEM AudioSynthWavetable::instrument_data 5thSawWave = {3, 5thSawWave_ranges, 5thSawWave_samples };
+const PROGMEM AudioSynthWavetable::instrument_data FifthSawWave = {3, FifthSawWave_ranges, FifthSawWave_samples };
 
